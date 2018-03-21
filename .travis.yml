@@ -3,4 +3,4 @@ sudo: enabled
 jdk:
 - oraclejdk8
 script:
-- run.sh
+- ./run.sh
